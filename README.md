@@ -1,6 +1,6 @@
 # Twin Stars Studio
 
-文件驱动的本地视觉制作工作台。本文对应 0.1.82。
+文件驱动的本地视觉制作工作台。本文对应 0.1.83。
 
 [下载最新版本](https://github.com/ThereisnoholidayonFriday/twin-stars-studio-releases/releases/latest)。联网安装器小于 50 MB，安装时联网下载并校验完整组件。
 
